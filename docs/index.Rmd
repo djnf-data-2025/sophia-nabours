@@ -1,5 +1,5 @@
 ---
-title: "Demo_Sasha"
+title: "Sophia Nabours"
 output: html_document
 date: "2025-04-22"
 ---
@@ -61,7 +61,7 @@ library(rvest)
 # YOUR_DATA <- read.csv("../data/XXXXX.csv") |> 
 #     clean_names()
 
-data <- read.csv("./data/data-who_vote_for.csv") |> 
+data <- read.csv("../data/data-who_vote_for.csv") |> 
     clean_names()
 
 
