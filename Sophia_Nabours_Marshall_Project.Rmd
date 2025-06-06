@@ -87,7 +87,7 @@ race__who_vote_for	See base definitions for question types.	See base definitions
 #     clean_names()
 
 #data_race <- read.csv("../data/data-race__who_vote_for.csv") |> 
-    #clean_names()
+    #iclean_names()
 
 
 ```

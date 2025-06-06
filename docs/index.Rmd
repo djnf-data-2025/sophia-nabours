@@ -1,4 +1,5 @@
 <html lang="en">
+
 <head>
   <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -18,7 +19,7 @@
       font-family: 'Your Title Font', serif;
       font-size: 72px;
       font-weight: bold;
-      color: #9d3545
+      color: #9d3545;
       text-align: center;
       margin-bottom: 10px;
     }
@@ -50,34 +51,36 @@
 </body>
 </html>
 
-Examining the prison population’s political opinions during the 2024 election and exploring how both those who were barred and allowed to vote would have been reflected in polling data. How their collective political beliefs reveal about justice, disenfranchisement, overlooked elective narratives affected public opinion on prisoners’ potential voting choices. 
-As conversations around criminal justice reform, detainee rights, and voting rights for incarcerated individuals gain traction ahead of the 2026 midterms, this piece will provide a timely lens into the political voices often most forgotten.
-AUDIENCE: voters, researchers, formerly incarcerated and currently incarcerated individuals.
-POSSIBLE SOURCES: 1) A data researcher from the Marshall Project that worked on the survey. 2) An incarcerated and formerly incarcerated individual willing to speak on political views in/outside prison. What is the political climate like in detainment? How were your political views affected by prison? 3) I’d love to look for a voting rights expert, someone informed on detained voting, 
-
+As conversations around criminal justice reform, detainee rights and voting rights for incarcerated individuals gain traction ahead of the 2026 midterms, one often forgotten voting group finds themselves vulnerable to the choices of eligible voters. Not all incarcerated individuals can vote in the U.S., their voting eligibility varies by classification of their conviction and the state they are incarcerated in.
 
 During the 2024 election, President Donald Trump reclaimed his position of power with 312 electoral college votes, beating the former Vice President Kamala Harris who received 226 electoral votes. Following the election, a large number of “what if” scenarios began to circulate. 
 
 What if only white men had voted in the 2024 election? According to AP VoteCast 2024 general election data, Trump would have instead won with 438 electoral votes, a 126 point increase from the general population. If only black men had voted the numbers would have flipped to Harris, she would have taken the presidency with all 538 electoral college votes.  
 
 
-However, the “what if” of the incarcerated population has remained untouched. Using the Marshall Project’s survey of the political stances of incarcerated individuals across the U.S., we can create a visualization of an often unrecognized voting population–actively detained prisoners and inmates. 
+However, the “what if” of the incarcerated population has remained untouched. Using the Marshall Project’s survey of the political stances of incarcerated individuals across the U.S., we can create a visualization of an often unrecognized voting population:actively detained prisoners and inmates. 
 
 
-The Marshall project surveyed over 54,000 individuals serving sentences in prisons and jails in 45 U.S. states on their choice for the presidential candidate of the 2024 general presidential election. 
+In July of 2024, the Marshall Project surveyed over 54,000 individuals serving sentences in prisons and jails in 45 U.S. states on their choice for the presidential candidate of the 2024 general presidential election. 
 
 
 
 
-<iframe title="Who would you vote for in the 2024 Presidential Election?" aria-label="Map" id="datawrapper-chart-lcHRs" src="https://datawrapper.dwcdn.net/lcHRs/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
+
+
+<iframe title="Who would you vote for in the 2024 Presidential Election?" aria-label="Map" id="datawrapper-chart-lcHRs" src="https://datawrapper.dwcdn.net/lcHRs/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="552" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
 </script>
+
 
 
 Tabulated version:
 
 
+
 <iframe src='https://flo.uri.sh/visualisation/23598381/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/23598381/?utm_source=embed&utm_campaign=visualisation/23598381' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
+
+<strong> Why so conservative? </strong>
 
 The incarcerated population surveyed were largely in favor of a Trump presidency. According to prisonpolicy.org and its data toolbox, Black people make up 37% of the incarcerated population, more than double of the 17% they make up of the general U.S. population. So why, despite Black folk doubling their voting pool in a group of incarcerated individuals, do the results remain so conservative? 
 
