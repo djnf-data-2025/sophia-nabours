@@ -1,6 +1,9 @@
 
 ---
 title: The Politics of the Incarcerated
+output: 
+  html_document:
+    theme: readable
 ---
 <html lang="en">
 <head>
@@ -10,15 +13,6 @@ title: The Politics of the Incarcerated
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;800&display=swap" rel="stylesheet"> 
   <style>
-    body {
-      margin: 0;
-      padding: 60px 20px;
-      background-color: #fff;
-      color: #000;
-      font-family: 'Raleway', sans-serif;
-      line-height: 1.6;
-      
-    }
 
     .title {
       font-size: 56px;
@@ -36,13 +30,7 @@ title: The Politics of the Incarcerated
       margin-bottom: 40px;
     }
 
-    .content {
-      font-size: 18px;
-      font-weight: 400;
-      max-width: 700px;
-      margin: 0 auto;
-      line-height: 1.8;
-    }
+
   </style>
 </head>
 <body>
@@ -77,16 +65,17 @@ Tabulated version:
 
 <iframe src='https://flo.uri.sh/visualisation/23598381/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/23598381/?utm_source=embed&utm_campaign=visualisation/23598381' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
-Notably, the only two states that flipped toward Harris compared to the actual election results were South Dakota and Louisiana. Donald Trump won 60.2% of the popular vote in Louisiana in November 2024, 37.31 more percentage points than he received from the incarcerated individuals. According to data collected by the <a href="https://vera-institute.files.svdcdn.com/production/downloads/pdfdownloads/state-incarceration-trends-louisiana.pdf"> Vera Institute of Justice,</a> Black people make up about 33% of the Louisiana population, but 67% of its prisons and around 53% of its jails.
+Notably, the only two states that flipped toward Harris compared to the actual election results were South Dakota and Louisiana. Donald Trump won 60.2% of the popular vote in Louisiana in November 2024, 37.31 more percentage points than he received from the incarcerated individuals. According to data collected by the <a href="https://vera-institute.files.svdcdn.com/production/downloads/pdfdownloads/state-incarceration-trends-louisiana.pdf"> Vera Institute of Justice,</a> Black people make up about 33% of the Louisiana population, but 67% of its prisons and around 53% of its jails. According to the <strong><a href="https://docs.google.com/spreadsheets/d/1X5PxUvlGMy3FuiSWOzd0naMKohoxVm2YmQ8qEe4xeIE/edit?usp=sharing">Associated Press's VoteSource exit poll data, </strong> </a> the majority of Black voters cast their votes for Harris in all 50 U.S. states. This can reasonably explain Louisiana's strong Harris majority.  
 
 In the South Dakota prisons and jails surveyed, Harris received 38.2% of the vote, making her the majority candidate of choice by 4 more percentage points compared to her results in the election. So, why are South Dakota's incarcerated individuals so much more liberal than the "free" citizens of South Dakota? 
 
-<strong> Why so conservative? </strong>
+
+<strong style="font-size:2em"> But why so conservative? </strong>
 
 
 The incarcerated population surveyed were largely in favor of a Trump presidency. According to prisonpolicy.org and its data toolbox, Black people make up 37% of the incarcerated population, more than double of the 17% they make up of the general U.S. population. So why, despite Black folk doubling their voting pool in a group of incarcerated individuals, do the results remain so conservative? 
 
-One argument could peer into the notion that prisons and jails lack the resources and media access for incarcerated individuals to properly investigate political candidates before an election. Only 1.8% of the U.S. population voted third party. https://docs.google.com/spreadsheets/d/1X5PxUvlGMy3FuiSWOzd0naMKohoxVm2YmQ8qEe4xeIE/edit?usp=sharing
+One argument could peer into the notion that prisons and jails lack the resources and media access for incarcerated individuals to properly investigate political candidates before an election. Only 1.8% of the U.S. population voted third party. 
 
 While 4% of the prison/jail population surveyed said they would or did vote third-party, and 8% said they weren't sure how they would vote. Another 8% said they would not vote, a standout decrease from the large 36% of eligible voters who did not vote in the 2024 election. 
 
@@ -95,14 +84,54 @@ One thing to note of the surveyed data is its lower Black population of responde
 <iframe title="Racial makeup of surveyed jails and prisons" aria-label="Pie Chart" id="datawrapper-chart-HSv9b" src="https://datawrapper.dwcdn.net/HSv9b/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="469" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
 </script>
 
-This racial makeup of the survey could reasonably justify the conservative majority of the population surveyed, matching the trend that White and Latino population voted majorly for President Trump. 
+This racial makeup of the survey could reasonably justify the conservative majority of the population surveyed, matching the trend that the White and Latino population voted majorly for President Trump. 
 
 
+<strong> Voting Accessibility </strong>
+
+One bigger issue reflected in the results of the survey is the lack of accessibility to voting education and rights for incarcerated individuals. 
+
+While the majority of people in jail have the right to vote, actually exercising that right can be challenging. According to the <a href="https://www.prisonpolicy.org/research/pretrial_detention/">Prison Policy Initiative, </a> two out of every three individuals in jail are typically awaiting their trails. Since these inmates have not been convicted of a crime, they all have the legal right to vote. 
+
+For others that are convicted in jail, most serving minor misdemeanor offenses, there are 44 states where they can exercise their right to vote freely. In 23 states, those convicted of felonies lose their voting rights only while incarcerated and have them restored upon release. In 15 other states, felons lose their voting rights during incarceration and for a period of time after. In 10 states, restoring voting rights for felons may require additional action after sentence completion, such as a governor's pardon or a court petition. 
+
+Within the survey, a little more than half of the participants said that they were eligible to vote. Twenty-three percent of the respondents wrote that they were not sure about their voter eligibility status. 
 
 
 <iframe src='https://flo.uri.sh/visualisation/23599006/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/23599006/?utm_source=embed&utm_campaign=visualisation/23599006' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
+This reflects a potential deeper issue that can be investigated in the future. 
 
+Voting access is vital for every citizen to exercise their part in the democratic process, and without the infrastructure to provide free and equitable ways to provide incarcerated individuals with the ability to represent. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+End. :P
+
+
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
 
 									
