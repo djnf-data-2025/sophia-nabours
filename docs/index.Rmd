@@ -1,76 +1,74 @@
+
+---
+title: The Politics of the Incarcerated
+---
 <html lang="en">
-
 <head>
+  <meta charset="UTF-8">
+  <title>The Politics of the Incarcerated</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet"> 
-
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;800&display=swap" rel="stylesheet"> 
   <style>
     body {
       margin: 0;
       padding: 60px 20px;
       background-color: #fff;
       color: #000;
-      font-family: Arial, sans-serif;
+      font-family: 'Raleway', sans-serif;
       line-height: 1.6;
+      
     }
 
     .title {
-      font-family: 'Your Title Font', serif;
-      font-size: 72px;
-      font-weight: bold;
+      font-size: 56px;
+      font-weight: 800;
       color: #9d3545;
       text-align: center;
       margin-bottom: 10px;
     }
 
     .byline {
-      font-family: 'Your Byline Font', sans-serif;
-      font-size: 18px;
-      font-weight: bold;
-      color: #888888; 
-      text-align: left;
+      font-size: 25px;
+      font-weight: 500;
+      color: #666666; 
+      text-align: center;
       margin-bottom: 40px;
     }
 
     .content {
-      font-size: 16px;
+      font-size: 18px;
+      font-weight: 400;
       max-width: 700px;
       margin: 0 auto;
+      line-height: 1.8;
     }
   </style>
 </head>
 <body>
-  <div class="title">The Politics of the Incarcerated</div>
-  <div class="byline">
+  <div class="byline"> <strong>
     By Sophia Nabours, Dow Jones News Fund Data Journalism Intern, The Marshall Project, 2025
   </div>
+  </strong>
+  
+    
+    As conversations around criminal justice reform, detainee rights and voting rights for incarcerated individuals gain traction ahead of the 2026 midterms, one often forgotten voting group finds themselves vulnerable to the choices of eligible voters. Not all incarcerated individuals can vote in the U.S.; their voting eligibility varies by classification of their conviction and the state they are incarcerated. By visualizing this population, we can gain a better understanding of the politics inside the locked cells of the justice system and how this population perceives those in power on the "outside."
 
-  <div class="content">
-  </div>
-</body>
-</html>
+During the 2024 election, President Donald Trump reclaimed his position of power with 312 electoral college votes, beating the former Vice President Kamala Harris who received 226 electoral votes. 
 
-As conversations around criminal justice reform, detainee rights and voting rights for incarcerated individuals gain traction ahead of the 2026 midterms, one often forgotten voting group finds themselves vulnerable to the choices of eligible voters. Not all incarcerated individuals can vote in the U.S., their voting eligibility varies by classification of their conviction and the state they are incarcerated in.
+On election night and for weeks after, analysts and media officials visualized the election data into different voting groups, trying to dissect how the public voted and why.
 
-During the 2024 election, President Donald Trump reclaimed his position of power with 312 electoral college votes, beating the former Vice President Kamala Harris who received 226 electoral votes. Following the election, a large number of “what if” scenarios began to circulate. 
-
-What if only white men had voted in the 2024 election? According to AP VoteCast 2024 general election data, Trump would have instead won with 438 electoral votes, a 126 point increase from the general population. If only black men had voted the numbers would have flipped to Harris, she would have taken the presidency with all 538 electoral college votes.  
-
-
-However, the “what if” of the incarcerated population has remained untouched. Using the Marshall Project’s survey of the political stances of incarcerated individuals across the U.S., we can create a visualization of an often unrecognized voting population:actively detained prisoners and inmates. 
+However, the examination of the incarcerated population's voting group has remained untouched. Using the Marshall Project’s survey of the political stances of incarcerated individuals across the U.S., we can create a visualization of an often unrecognized voting population:actively detained prisoners and inmates. 
 
 
 In July of 2024, the Marshall Project surveyed over 54,000 individuals serving sentences in prisons and jails in 45 U.S. states on their choice for the presidential candidate of the 2024 general presidential election. 
 
+<strong>  <a href="https://observablehq.com/@themarshallproject/survey3-state-summaries"> Get the data here. </strong>
 
 
 
-
-
-<iframe title="Who would you vote for in the 2024 Presidential Election?" aria-label="Map" id="datawrapper-chart-lcHRs" src="https://datawrapper.dwcdn.net/lcHRs/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="552" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
+<iframe title="Who would incarcerated individuals vote for in the 2024 Presidential Election?" aria-label="Map" id="datawrapper-chart-lcHRs" src="https://datawrapper.dwcdn.net/lcHRs/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="578" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
 </script>
-
 
 
 Tabulated version:
@@ -79,8 +77,12 @@ Tabulated version:
 
 <iframe src='https://flo.uri.sh/visualisation/23598381/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/23598381/?utm_source=embed&utm_campaign=visualisation/23598381' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
+Notably, the only two states that flipped toward Harris compared to the actual election results were South Dakota and Louisiana. Donald Trump won 60.2% of the popular vote in Louisiana in November 2024, 37.31 more percentage points than he received from the incarcerated individuals. According to data collected by the <a href="https://vera-institute.files.svdcdn.com/production/downloads/pdfdownloads/state-incarceration-trends-louisiana.pdf"> Vera Institute of Justice,</a> Black people make up about 33% of the Louisiana population, but 67% of its prisons and around 53% of its jails.
+
+In the South Dakota prisons and jails surveyed, Harris received 38.2% of the vote, making her the majority candidate of choice by 4 more percentage points compared to her results in the election. So, why are South Dakota's incarcerated individuals so much more liberal than the "free" citizens of South Dakota? 
 
 <strong> Why so conservative? </strong>
+
 
 The incarcerated population surveyed were largely in favor of a Trump presidency. According to prisonpolicy.org and its data toolbox, Black people make up 37% of the incarcerated population, more than double of the 17% they make up of the general U.S. population. So why, despite Black folk doubling their voting pool in a group of incarcerated individuals, do the results remain so conservative? 
 
@@ -88,7 +90,12 @@ One argument could peer into the notion that prisons and jails lack the resource
 
 While 4% of the prison/jail population surveyed said they would or did vote third-party, and 8% said they weren't sure how they would vote. Another 8% said they would not vote, a standout decrease from the large 36% of eligible voters who did not vote in the 2024 election. 
 
+One thing to note of the surveyed data is its lower Black population of respondents. Despite Black people making up 37% of the population in prisons/jails, The Marshall Project's survey's only had 25.72% of respondents mark "Black or African American" as one or more races and ethnicities they identify with.
 
+<iframe title="Racial makeup of surveyed jails and prisons" aria-label="Pie Chart" id="datawrapper-chart-HSv9b" src="https://datawrapper.dwcdn.net/HSv9b/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="469" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
+</script>
+
+This racial makeup of the survey could reasonably justify the conservative majority of the population surveyed, matching the trend that White and Latino population voted majorly for President Trump. 
 
 
 
