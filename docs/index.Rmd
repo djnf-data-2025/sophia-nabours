@@ -49,7 +49,7 @@ On election night and for weeks after, analysts and media officials visualized t
 However, the examination of the incarcerated population's voting group has remained untouched. Using the Marshall Project’s survey of the political stances of incarcerated individuals across the U.S., we can create a visualization of an often unrecognized voting population:actively detained prisoners and inmates. 
 
 
-In July of 2024, the Marshall Project surveyed over 54,000 individuals serving sentences in prisons and jails in 45 U.S. states on their choice for the presidential candidate of the 2024 general presidential election. 
+In July of 2024, the Marshall Project surveyed over 54,000 individuals serving sentences in prisons and jails in 45 U.S. states on their choice for the presidential candidate of the 2024 general presidential election. An estimated 1.8 million people are currently incarcerated in the U.S.
 
 <strong>  <a href="https://observablehq.com/@themarshallproject/survey3-state-summaries"> Get the data here. </strong>
 
@@ -104,6 +104,10 @@ This reflects a potential deeper issue that can be investigated in the future.
 
 Voting access is vital for every citizen to exercise their part in the democratic process, and without the infrastructure to provide free and equitable ways to provide incarcerated individuals with the ability to represent. 
 
+<strong> Problems </strong>
+  Over generalization and small counts.
+  Virginia v. Alabama
+  Women population, 10.6% in survey v. 10% in gen
 
 
 
@@ -127,7 +131,6 @@ Voting access is vital for every citizen to exercise their part in the democrati
 
 
 
-End. :P
 
 
 
